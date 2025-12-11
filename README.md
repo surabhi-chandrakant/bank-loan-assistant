@@ -12,6 +12,8 @@ It includes:
 - **Groq LLM (llama-3.3-70b-versatile)**  
 - **Streamlit UI** for interacting with the assistant  
 
+# Live Demo app : https://bank-loan-assistant-rag.streamlit.app/
+
 ---
 
 # 📂 Project Structure
