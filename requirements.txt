@@ -12,3 +12,4 @@ python-dotenv==1.0.1
 pickle-mixin==1.0.2
 numpy==1.26.4
 torch==2.1.2
+groq==0.7.0
