@@ -1,13 +1,6 @@
-streamlit==1.32.0
-requests==2.31.0
-beautifulsoup4==4.12.3
-
+streamlit
+groq
+sentence-transformers
 faiss-cpu
-groq==0.7.0
-python-dotenv==1.0.1
-numpy==1.26.4
-
-# lightweight embedding model support
-sentence-transformers==2.2.2
-
-# DO NOT INSTALL TORCH EXPLICITLY (Streamlit Cloud installs a minimal version automatically)
+beautifulsoup4
+requests
